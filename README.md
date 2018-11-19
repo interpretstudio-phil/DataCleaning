@@ -3,6 +3,10 @@
 
 This readme describes the files in this repo and their intended use
 
+To run this script:
+1. set working directory to the root of the UCI zip file extract location.  The README.txt file should be present in that directory along with the Features and Activitiy
+2. run the run_analysis.R script 
+3. review the file sumdata.txt created in the working directory
 
 File| Description
 ----|-----------------------------------------------------
